@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background-color: rgb(158, 145, 121);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav li {
+
+    list-style: none;
+}
+
+.nav li a {
+    text-decoration: none;
+
+
+}
+
+.btn {
+    border: solid rgb(253, 199, 20);
+
+
+}
+
+.src {
+    border: solid rgb(255, 251, 0);
+    background-color: rgb(8, 235, 103);
+
+
+}
+
+
+ 

@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.row{
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.row div{
+        background-color: #ffde22;
+        border: 7px solid black;
+        border-radius: 10px;
+        height: 95%;
+        margin: 5px;
+}
+.box1{
+    width: 10%;
+}
+.box2{
+    width: 60%;
+}
+.box3{
+    width: 20%;
+}
